@@ -1,1 +1,29 @@
-
+[
+  {
+    "id": "1",
+    "name": "Hermes Birkin 25 Gold",
+    "stock": 2,
+    "category": "Handbags",
+    "location": "Bangkok Store",
+    "status": "Active",
+    "imageUrl": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "id": "2",
+    "name": "Chanel Classic Flap Bag",
+    "stock": 5,
+    "category": "Handbags",
+    "location": "Phuket Store",
+    "status": "Active",
+    "imageUrl": "https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "id": "3",
+    "name": "Louis Vuitton Speedy 30",
+    "stock": 12,
+    "category": "Handbags",
+    "location": "Chiang Mai Store",
+    "status": "Active",
+    "imageUrl": "https://images.unsplash.com/photo-1608748010899-18f300247112?q=80&w=400&auto=format&fit=crop"
+  }
+]
